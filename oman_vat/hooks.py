@@ -197,8 +197,8 @@ jenv = {
     ]
 }
 
-jinja = {
-    "methods": [
-        "oman_vat.events.barcode.get_barcode_svg"
-    ]
-}
+# jinja = {
+#     "methods": [
+#         "oman_vat.events.barcode.get_barcode_svg"
+#     ]
+# }

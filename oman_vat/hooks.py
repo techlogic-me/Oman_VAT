@@ -196,3 +196,9 @@ jenv = {
         'string_to_json:oman_vat.jinja.utils.string_to_json'
     ]
 }
+
+jinja = {
+    "methods": [
+        "oman_vat.events.barcode.get_barcode_svg"
+    ]
+}
